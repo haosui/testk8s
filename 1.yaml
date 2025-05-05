@@ -30,4 +30,4 @@ spec:
         - sleep
         - "3600"
       image: busybox
-      name: pods-simple-container
+      name: pods-simple-containerpods-simple-container
